@@ -1,0 +1,6 @@
+{
+  "name": "SolarGrid-100: Microgrid & AI Battery Management System",
+  "description": "High-precision 100-house solar microgrid simulator with real-time irradiance and temperature telemetry, DC-DC boost converters, central DC bus, prioritized load dispatch, and AI battery health management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
